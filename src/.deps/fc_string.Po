@@ -3,7 +3,7 @@ fc_string.o: fc_string.c /usr/include/stdc-predef.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
- /usr/lib/gcc/x86_64-linux-gnu/4.9/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h /usr/include/endian.h \
  /usr/include/x86_64-linux-gnu/bits/endian.h \
@@ -25,9 +25,9 @@ fc_string.o: fc_string.c /usr/include/stdc-predef.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/string.h \
  /usr/include/x86_64-linux-gnu/bits/string2.h \
  /usr/include/x86_64-linux-gnu/bits/string3.h fc_core.h ../config.h \
- /usr/lib/gcc/x86_64-linux-gnu/4.9/include/stdint.h /usr/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
- /usr/lib/gcc/x86_64-linux-gnu/4.9/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  /usr/include/inttypes.h /usr/include/unistd.h \
  /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \
@@ -50,8 +50,8 @@ fc_string.o: fc_string.c /usr/include/stdc-predef.h /usr/include/stdlib.h \
  /usr/include/sched.h /usr/include/x86_64-linux-gnu/bits/sched.h \
  /usr/include/x86_64-linux-gnu/bits/timex.h \
  /usr/include/x86_64-linux-gnu/bits/setjmp.h \
- /usr/lib/gcc/x86_64-linux-gnu/4.9/include-fixed/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/4.9/include-fixed/syslimits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h \
  /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
  /usr/include/linux/limits.h \
@@ -74,7 +74,7 @@ fc_string.o: fc_string.c /usr/include/stdc-predef.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/mman.h \
  /usr/include/x86_64-linux-gnu/bits/mman-linux.h fc_array.h fc_string.h \
  fc_queue.h fc_log.h fc_mbuf.h fc_memcache.h fc_message.h fc_sha1.h \
- fc_time.h fc_util.h /usr/lib/gcc/x86_64-linux-gnu/4.9/include/stdarg.h \
+ fc_time.h fc_util.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  fc_event.h fc_connection.h fc_slab.h fc_itemx.h fc_item.h fc_signal.h
 
 /usr/include/stdc-predef.h:
@@ -91,7 +91,7 @@ fc_string.o: fc_string.c /usr/include/stdc-predef.h /usr/include/stdlib.h \
 
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/4.9/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 /usr/include/x86_64-linux-gnu/bits/waitflags.h:
 
@@ -149,13 +149,13 @@ fc_core.h:
 
 ../config.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/4.9/include/stdint.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h:
 
 /usr/include/stdint.h:
 
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/4.9/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 /usr/include/inttypes.h:
 
@@ -215,9 +215,9 @@ fc_core.h:
 
 /usr/include/x86_64-linux-gnu/bits/setjmp.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/4.9/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/4.9/include-fixed/syslimits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h:
 
 /usr/include/limits.h:
 
@@ -295,7 +295,7 @@ fc_time.h:
 
 fc_util.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/4.9/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 fc_event.h:
 

@@ -26,6 +26,8 @@ struct itemx {
     uint32_t            sid;    /* owner slab id */
     uint32_t            offset; /* item offset from owner slab base */
     uint64_t            cas;    /* cas */
+    struct itemx*		prev;
+    struct itemx*		next;
 } __attribute__ ((__packed__));
 
 STAILQ_HEAD(itemx_tqh, itemx);
